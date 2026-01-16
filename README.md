@@ -13,7 +13,7 @@ A curated collection of projects, documentation, and code showcasing hands-on sk
 - Created S3 bucket
 - Enabled static website hosting
 - Uploaded HTML file
-- Made site publicly accessible
+- Made site publicly accessible   http://jaredpaul-cloud-portfolio.s3-website-ap-northeast-1.amazonaws.com
 
 ### Next steps
 - Add CloudFront
