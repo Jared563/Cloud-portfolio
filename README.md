@@ -19,3 +19,10 @@ A curated collection of projects, documentation, and code showcasing hands-on sk
 - Add CloudFront
 - Add HTTPS
 - Connect custom domain
+
+### Update Day 2
+- Added CloudFront distribution
+- Enabled HTTPS
+- Improved performance and security
+
+**CloudFront URL:** dy9tgsv382a07.cloudfront.net
