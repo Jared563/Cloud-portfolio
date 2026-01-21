@@ -26,3 +26,10 @@ A curated collection of projects, documentation, and code showcasing hands-on sk
 - Improved performance and security
 
 **CloudFront URL:** dy9tgsv382a07.cloudfront.net
+
+
+### Update Day 3
+- Connected custom domain via Route 53
+- Enabled HTTPS with ACM
+- Implemented IAM user (least privilege)
+- Added CloudWatch monitoring
