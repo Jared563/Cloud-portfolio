@@ -33,3 +33,16 @@ A curated collection of projects, documentation, and code showcasing hands-on sk
 - Enabled HTTPS with ACM
 - Implemented IAM user (least privilege)
 - Added CloudWatch monitoring
+
+## Project 2: EC2 Linux Web Server
+
+- Service: Amazon EC2
+- OS: Amazon Linux 2023
+- Web Server: Nginx
+
+### What I did
+- Launched EC2 instance
+- Connected via SSH
+- Installed and configured Nginx
+- Secured access with security groups
+
